@@ -1,0 +1,11 @@
+111|KALLAX|SONY|shelving unit 77x12|32|290.0|SONY|Cabinets|0.0|null
+112|BILLY|MANSD|bookcase 90x12z23cm|23|567.0|MANSD|Cabinets|0.0|null
+113|BESTA|DETOLF|glass door cabinet|45|200.0|MANSD|Cabinets|0.0|null
+114|LEIRVIK|HEMNES|bedframe with 3 drawers 80x23cm|23|1600.0|HEMNES|Bedframes|0.0|null
+116|TARVA|NORDLI|white bedframe 90x130cm|54|590.0|NORDLI|Bedframes|0.0|null
+118|NILSOLLE|LERHAMN|bar stool 87cm|23|100.0|LERHAMN|Chairs|0.0|null
+118|GLADOM|LACK|coffee table 90x55cm|76|58.0|LACK|Tables|0.0|null
+119|BURVIC|BERGENES|side table 38cm|45|129.0|BERGENES|Tables|0.0|null
+120|KIVIC|BERGENES|2 seat sofa|78|800.0|BERGENES|Sofas|0.0|null
+123123|safd|fasd|sfda|2|324.0|fads|Chairs|0.0|null
+123123|safd|fasd|sfda|2|324.0|fads|Chairs|0.0|null
